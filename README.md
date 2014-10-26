@@ -1,7 +1,7 @@
 Bootstrap Dashboard
 ===================
 
-The most popular HTML, CSS and JavaScript framework for developing responsive dashboard project on the web. Heavily inspired by [twbs/bootstrap](https://github.com/twbs/bootstrap) and [csswizardry/inuit.css](https://github.com/csswizardry/inuit.css/) and [Code Guide](https://github.com/mdo/code-guide) by [Mark Otto](https://github.com/mdo).
+The most popular HTML, CSS and JavaScript framework for developing responsive dashboard project on the web. Heavily inspired by [twbs/bootstrap](https://github.com/twbs/bootstrap) and [csswizardry/inuit.css](https://github.com/csswizardry/inuit.css/) ,and [Code Guide](https://github.com/mdo/code-guide) by [Mark Otto](https://github.com/mdo).
 
 ## Table of Contents
 
