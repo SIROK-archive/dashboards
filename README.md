@@ -13,6 +13,10 @@ The most popular HTML, CSS and JavaScript framework for developing responsive da
 - [Author](#author)
 - [Copyright and license](#copyright-and-license)
 
+## Get started
+
+Todo
+
 ## Todo
 
 - [ ] Delete `.gitkeep`
@@ -38,10 +42,9 @@ Todo
 
 ## Author
 
-### Sota Yamashita
-
-- https://twitter.com/sota0805
-- https://github.com/sota0805
+| [![twitter/sota0805](http://2.gravatar.com/avatar/1819ffcc36875ddbf8df81532d832a2b?s=70)](http://twitter.com/sota0805 "Follow @sota0805 on Twitter") |
+|---|
+| [Sota Yamashita](http://sota0805.github.io/) |
 
 ## Copyright and license
 
