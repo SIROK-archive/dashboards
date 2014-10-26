@@ -4,7 +4,7 @@
   "description": "The most popular HTML, CSS and JavaScript framework for developing responsive dashboard project on the web",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "keywords": [
     "css",
@@ -19,5 +19,8 @@
     "gcss"
   ],
   "author": "Sota Yamashtia <sota.yamashita@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-load-plugins": "^0.7.0"
+  }
 }
