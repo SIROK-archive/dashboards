@@ -1,7 +1,7 @@
 Bootstrap Dashboard [![Build Status](https://travis-ci.org/SIROK/bootstrap-dashboard.svg)](https://travis-ci.org/SIROK/bootstrap-dashboard) [![Dependency Status](https://gemnasium.com/SIROK/bootstrap-dashboard.svg)](https://gemnasium.com/SIROK/bootstrap-dashboard)
 ===================
 
-The most popular HTML, CSS and JavaScript framework for developing responsive dashboard project on the web. Heavily inspired by [twbs/bootstrap](https://github.com/twbs/bootstrap) and [csswizardry/inuit.css](https://github.com/csswizardry/inuit.css/) ,and [Code Guide](https://github.com/mdo/code-guide) by [Mark Otto](https://github.com/mdo).
+The most popular HTML, CSS and JavaScript framework for developing responsive dashboard project on the web. Heavily inspired by [twbs/bootstrap](https://github.com/twbs/bootstrap). It will be used with  [csswizardry/inuit.css](https://github.com/csswizardry/inuit.css/). This project use [CSS Style Guide](http://cssguidelin.es/)
 
 ## Table of Contents
 
@@ -48,7 +48,7 @@ Todo
 
 ## Copyright and license
 
-Bootstrap Dashboard and all content copyright 2014 SIROK, Inc.
+Dashboard and all content copyright 2014 SIROK, Inc.
 
 Code are released under [the MIT License](License).
 
