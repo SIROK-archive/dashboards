@@ -5,7 +5,7 @@ The most popular HTML, CSS and JavaScript framework for developing responsive da
 
 ## Table of Contents
 
-- [Get stated](#get-started)
+- [Usage](#usage)
 - [Todo](#todo)
 - [Documentation](#documentation)
 - [Contributing](#contributing)
@@ -13,12 +13,17 @@ The most popular HTML, CSS and JavaScript framework for developing responsive da
 - [Author](#author)
 - [Copyright and license](#copyright-and-license)
 
-## Get started
+## Usage
 
 Easy useage:
    
     <link rel="stylesheet" href="/path/to/inuit.css">
     <link rel="stylesheet" href="/path/to/dist/css/dashboard.min.css">
+
+Use it on existing SCSS project:
+
+    $ git submodule add https://github.com/csswizardry/inuit.css.git /path/to/scss/
+    $ git submodule add https://github.com/SIROK/dashboard.git /path/to/scss/
 
 ## Todo
 
