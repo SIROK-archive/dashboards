@@ -15,7 +15,10 @@ The most popular HTML, CSS and JavaScript framework for developing responsive da
 
 ## Get started
 
-Todo
+Easy useage:
+   
+    <link rel="stylesheet" href="/path/to/inuit.css">
+    <link rel="stylesheet" href="/path/to/dist/css/dashboard.min.css">
 
 ## Todo
 
