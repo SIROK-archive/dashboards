@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-dashboard",
+  "name": "dashboard",
   "version": "0.0.0",
   "description": "The most popular HTML, CSS and JavaScript framework for developing responsive dashboard project on the web",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SIROK/bootstrap-dashboard.git"
+    "url": "https://github.com/SIROK/dashboard.git"
   },
   "keywords": [
     "css",
