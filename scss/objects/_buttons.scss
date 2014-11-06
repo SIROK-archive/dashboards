@@ -1,0 +1,44 @@
+/*------------------------------------*\
+    $BUTTONS
+\*------------------------------------*/
+/**
+ * Basic Button
+ * It override original beatuons from inuit.css
+ */
+.btn {
+  color: #fff;
+}
+
+
+
+
+
+/**
+ * Round Button
+ */
+.btn--round {
+  @include border-radius(3);
+}
+
+
+
+
+
+
+/**
+ * Success Button
+ */
+.btn--success {
+  background-color: #619bdb;
+}
+
+
+
+
+
+/**
+ * Danger Buttton
+ */
+.btn--danger {
+  background-color: #ec6060;
+}
