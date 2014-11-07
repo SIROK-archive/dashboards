@@ -5,10 +5,13 @@
  * Basic table
  *
    <table class="table">
-     <header></header>
-     <div class="table__content">
-     </div>
-     <footer></footer>
+     <thead>
+       <tr>
+         <th></th>
+       </tr>
+     </thead>
+     <tbody>
+     </tbody>
    </table>
  *
  * Demo: Todo
