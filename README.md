@@ -1,4 +1,4 @@
-Dashboard [![Build Status](https://travis-ci.org/SIROK/bootstrap-dashboard.svg)](https://travis-ci.org/SIROK/bootstrap-dashboard) [![Dependency Status](https://gemnasium.com/SIROK/bootstrap-dashboard.svg)](https://gemnasium.com/SIROK/bootstrap-dashboard)
+Dashboard [![Build Status](https://travis-ci.org/SIROK/dashboard.svg?branch=master)](https://travis-ci.org/SIROK/dashboard) [![Dependency Status](https://gemnasium.com/SIROK/bootstrap-dashboard.svg)](https://gemnasium.com/SIROK/bootstrap-dashboard)
 ===================
 
 The most popular HTML, CSS and JavaScript framework for developing responsive dashboard project on the web. Heavily inspired by [twbs/bootstrap](https://github.com/twbs/bootstrap). It will be used with  [csswizardry/inuit.css](https://github.com/csswizardry/inuit.css/). This project use [CSS Style Guide](http://cssguidelin.es/)
