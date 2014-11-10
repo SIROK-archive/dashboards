@@ -45,7 +45,7 @@ Add each library with submodule:
 - [ ] Write `CONTRIBUTING.md`
 - [ ] Write `CHANGELOG.md`
 - [ ] Write Documentation section
-- [ ] Write Contributing section
+- [x] Write Contributing section
 - [ ] Write Versioning section
 
 ## Documentation
