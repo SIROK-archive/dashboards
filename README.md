@@ -3,6 +3,8 @@ Dashboard [![Build Status](https://travis-ci.org/SIROK/dashboard.svg?branch=mast
 
 The most popular HTML, CSS and JavaScript framework for developing responsive dashboard project on the web. Heavily inspired by [twbs/bootstrap](https://github.com/twbs/bootstrap). It will be used with  [csswizardry/inuit.css](https://github.com/csswizardry/inuit.css/). This project use [CSS Style Guide](http://cssguidelin.es/)
 
+Read this in other languages: _[日本語](README.ja.md)_
+
 ## Table of Contents
 
 - [Usage](#usage)
