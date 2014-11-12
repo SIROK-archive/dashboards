@@ -37,5 +37,6 @@
  * @param    {Number} $borderRadius - border radius
  */
 @mixin border-radius($border-radius) {
-    @include vendor(border-raius: $border-radius + px);
+    -webkit-border-raius: $border-radius + px;
+            border-raius: $border-radius + px;
 }
