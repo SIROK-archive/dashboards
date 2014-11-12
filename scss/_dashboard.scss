@@ -41,6 +41,8 @@
  * MIXINS..............Super-simple Sass stuff
  * FUNCTION............Useful Sass stuff
  *
+ * LISTS...............Useful list Sass stuff
+ *
  * DASHBOARDS..........Very Important Sass stuff in this project
  * ALERTS..............Alert style
  * BUTTONS.............Buttons style
@@ -60,6 +62,14 @@
 @import "default";
 @import "generic/mixins";
 @import "generic/function";
+
+
+
+/**
+ * Base styles etc.
+ */
+@import "base/lists";
+
 
 
 
