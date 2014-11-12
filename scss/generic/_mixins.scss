@@ -17,3 +17,25 @@
         family: $font-family;
     }
 }
+
+
+
+/**
+ * Hide Text for Logo
+ */
+@mixin hide-text {
+    overflow: hidden;
+    text-indent: -9000px;
+    display: block;
+}
+
+
+
+
+/**
+ * Border Radius
+ * @param    {Number} $borderRadius - border radius
+ */
+@mixin border-radius($border-radius) {
+    @include vendor(border-raius: $border-radius + px);
+}
