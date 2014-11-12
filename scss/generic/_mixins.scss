@@ -1,0 +1,19 @@
+/*------------------------------------*\
+    $MIXINS
+\*------------------------------------*/
+@mixin font ($font-family, $font-size, $color, $base: 16) {
+    margin: 0;
+    padding: 0;
+    color: $color;
+    letter-spacing:0.1em;
+    vertical-align: baseline;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    font : {
+        size: $font-size + px;
+        size: ($font-size / $base) + rem;
+        style: normal;
+        weight: 700;
+        family: $font-family;
+    }
+}
