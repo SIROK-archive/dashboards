@@ -2,3 +2,5 @@ Dashboard [![Build Status](https://travis-ci.org/SIROK/dashboard.svg?branch=mast
 ===================
 
 READMEを違う言語で読む: [English](README.md)
+
+It is pending
