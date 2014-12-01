@@ -39,7 +39,7 @@ Add each library with submodule:
 
 ## Todo
 
-- [ ] Delete `.gitkeep`
+- [x] Delete `.gitkeep`
 - [ ] Create page with **gh-page**
 - [ ] Write test on TravisCI
 - [ ] Write `CONTRIBUTING.md`
