@@ -1,7 +1,7 @@
 'use strict';
 // Load gulp and other plugins
 var gulp = require('gulp');
-var $ = require('gulp-load-plugins')();
+var $    = require('gulp-load-plugins')();
 
 // Path
 var path = {
@@ -16,6 +16,7 @@ gulp.task('scss', function(){
       }))
       .pipe($.autoprefixer('last 2 version'))
       .pipe(gulp.dest('dist/css'))
+      .pipe(gulp.csscomb('dis/css/*.css'))
       .on('error', function(err){ console.log(err.message); })
       .pipe($.rename({
         suffix: '.min'
