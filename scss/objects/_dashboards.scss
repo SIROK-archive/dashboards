@@ -1,3 +1,19 @@
+@if $use-dashboards == true{
+
+/*------------------------------------*\
+    $DASHBOARDS
+\*------------------------------------*/
+/**
+ * Dashboard Basic Style
+ *
+    <div class="dashboard__wrapper">
+      <div class="dashboard__aside"></div>
+      <div class="dashboard__main"></div>
+    </div>
+ *
+ * TODO: CREATE A DEMO
+ */
+// TODO: Move it to _vars.scss
 $dashboard__aside: 250px;
 
 
@@ -28,6 +44,10 @@ $dashboard__aside: 250px;
 
 
 .scrollable__content {
+  max-height: 100%;
   overflow: auto;
   height: 100%;
 }
+
+
+}//endif
