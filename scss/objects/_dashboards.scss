@@ -1,0 +1,33 @@
+$dashboard__aside: 250px;
+
+
+.dashboard__wrapper {
+  position: relative;
+  height: 100%;
+  top: 0;
+}
+
+
+.dashboard__aside {
+  width: $dashboard__aside;
+  height: 100%;
+  min-height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 1;
+}
+
+
+.dashboard__main {
+  position: relative;
+  z-index: 2;
+  margin-left: $dashboard__aside;
+}
+
+
+.scrollable__content {
+  overflow: auto;
+  height: 100%;
+}
