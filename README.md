@@ -47,6 +47,7 @@ Add each library with submodule:
 - [ ] Write Documentation section
 - [x] Write Contributing section
 - [ ] Write Versioning section
+- [ ] Create `.css` when I push automatically with travisCI.
 
 ## Documentation
 
