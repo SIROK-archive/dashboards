@@ -28,6 +28,6 @@ gulp.task('scss', function(){
 
 // Default Task
 gulp.task('watch', function(){
-  var default = ['scss'];
-  $.watch('scss/**/.scss', default);
+  var styles = ['scss'];
+  $.watch('scss/**/.scss', styles);
 });
