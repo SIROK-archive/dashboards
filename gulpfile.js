@@ -16,7 +16,7 @@ gulp.task('scss', function(){
       }))
       .pipe($.autoprefixer('last 2 version'))
       .pipe(gulp.dest('dist/css'))
-      .pipe(gulp.csscomb('dis/css/*.css'))
+      .pipe($.csscomb('dis/css/*.css'))
       .on('error', function(err){ console.log(err.message); })
       .pipe($.rename({
         suffix: '.min'
