@@ -33,6 +33,8 @@ gulp.task('styles', function(){
 });
 
 
+gulp.task('default', ['styles']);
+
 // Default Task
 gulp.task('watch', function(){
   var styles = ['styles'];
