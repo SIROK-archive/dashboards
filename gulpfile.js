@@ -25,5 +25,9 @@ gulp.task('scss', function(){
       .pipe(gulp.dest('dist/css'));
 });
 
+
 // Default Task
-gulp.task('default', ['scss']);
+gulp.task('watch', function(){
+  var default = ['scss'];
+  $.watch('scss/**/.scss', default);
+});
