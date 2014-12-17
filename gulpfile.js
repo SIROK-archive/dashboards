@@ -22,7 +22,6 @@ gulp.task('styles', function(){
       .pipe(gulp.dest('dist/css'))
       // 
       .pipe($.csscomb('dis/css/*.css'))
-      .on('error', function(err){ console.log(err.message); })
       // Rename main.css to main.min.css
       .pipe($.rename({
         suffix: '.min'
@@ -31,7 +30,6 @@ gulp.task('styles', function(){
       .pipe($.csso())
       .pipe(gulp.dest('dist/css'));
 });
-
 
 gulp.task('default', ['styles']);
 
