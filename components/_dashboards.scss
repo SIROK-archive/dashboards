@@ -4,24 +4,50 @@
     $DASHBOARDS
 \*------------------------------------*/
 /**
- * Dashboard Basic Style
+ * Base style
  *
-    <div class="dashboard__wrapper">
-      <div class="dashboard__aside"></div>
-      <div class="dashboard__main"></div>
-    </div>
+  <div class="dashboard__wrapper">
+    //
+  </div>
  *
- * TODO: CREATE A DEMO
  */
-// TODO: Move it to _vars.scss
-$dashboard__aside: 250px;
-
-
 .dashboard__wrapper {
   position: relative;
   height: 100%;
+  left: 0;
   top: 0;
 }
+
+
+
+
+/**
+ * 2 column Style
+ *
+    <div class="dashboard__wrapper dashboard__2column">
+      <div class="dashboard__aside"></div>
+      <div class="dashboard__main">
+　　　　　　<div class="dashboard__content"></div>
+          <div class="dashboard__footer"></div>
+      </div>
+    </div>
+ *
+ * TODO: CREATE A DEMO
+ *
+ * ┌───────┬──────────────────────────┐
+ * │       │ main                     │   ↑
+ * │       │ ┌─────────────────────┐  │   │
+ * │       │ │                     │  │　cacl(100% - $footerHeight)
+ * │ aside │ │       content       │  │   │
+ * │       │ └─────────────────────┘  │   ↓
+ * │       ├──────────────────────────┤   ↑
+ * │       │          Footer          │  $footerHeight
+ * └───────┴──────────────────────────┘   ↓
+ *
+ */
+// TODO: Move it to _vars.scss
+$dashboard__aside: 250px
+$dashboard__footer__height: 60px;
 
 
 .dashboard__aside {
