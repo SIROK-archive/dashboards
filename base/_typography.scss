@@ -18,9 +18,16 @@ html {font-size: 1em;}
 body {
   background-color: white;
   font-family: Georgia,Cambria,"Times New Roman",Times,serif;
-  font-weight: 400;
+  -moz-font-feature-settings: "liga" on;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  vertical-align: baseline;
+  letter-spacing: -0.02em;
+  color: rgba(0,0,0,0.8);
+  font-kerning: normal;
   line-height: 1.45;
-  color: #333;
+  font-weight: 300;
 }
 
 p {margin-bottom: 1.3em;}
