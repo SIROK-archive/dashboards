@@ -39,11 +39,11 @@
  * IMPORTS.............Begin importing the sections below
  *
  * MIXINS..............Super-simple Sass stuff
- * FUNCTION............Useful Sass stuff
  *
- * LISTS...............Useful list Sass stuff
+ * TYPOGRAPHY..........Typography
  *
  * DASHBOARDS..........Very Important Sass stuff in this project
+ *
  * ALERTS..............Alert style
  * BUTTONS.............Buttons style
  * FORMS...............Forms style
@@ -60,18 +60,24 @@
  * Generic utility styles etc.
  */
 @import "default";
-@import "generic/mixins";
-@import "generic/function";
 
+
+/**
+ * Generic helper styles etc.
+ */
+@import "generic/mixins";
 
 
 /**
  * Base styles etc.
  */
-@import "base/lists";
+@import "base/typography";
 
 
-
+/**
+ * Components styles etc.
+ */
+@import "components/dashboards";
 
 
 /**
@@ -81,4 +87,3 @@
  @import "objects/buttons";
  @import "objects/forms";
  @import "objects/tables";
- @import "objects/dashboards";
