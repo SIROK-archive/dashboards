@@ -7,9 +7,6 @@ The most popular HTML, CSS and JavaScript framework for developing responsive da
 
 - [Usage](#usage)
 - [Todo](#todo)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [Versioning](#versioning)
 - [Author](#author)
 - [Copyright and license](#copyright-and-license)
 
@@ -39,31 +36,11 @@ Add each library with submodule:
 
 - [x] Delete `.gitkeep`
 - [ ] Create page with **gh-page**
-- [ ] Write test on TravisCI
 - [ ] Write `CONTRIBUTING.md`
 - [ ] Write `CHANGELOG.md`
 - [ ] Write Documentation section
-- [x] Write Contributing section
+- [ ] Write Contributing section
 - [ ] Write Versioning section
-- [ ] Create `.css` when I push automatically with travisCI.
-
-## Documentation
-
-Todo
-
-## Contributing
-
-Before commiting messages, please read [Contributing](CONTRIBUTING.md).
-
-1. Fork it ( https://github.com/[my-github-username]/cal_exporter/fork )
-2. Create your feature branch (git checkout -b my-new-feature)
-3. Commit your changes (git commit -am 'Add some feature')
-4. Push to the branch (git push origin my-new-feature)
-5. Create a new Pull Request
-
-## Versioning
-
-Todo
 
 ## Author
 
