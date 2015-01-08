@@ -40,3 +40,20 @@
     -webkit-border-raius: $border-radius + px;
             border-raius: $border-radius + px;
 }
+
+
+
+/**
+ * Create vendor-prefixed CSS in one go, e.g.
+ *
+   `@include vendor(border-radius, 4px);`
+ *
+ * Thanks to inuit.css for the `vendor` Sass:
+ */
+@mixin vendor($property, $value...){
+    -webkit-#{$property}:$value;
+       -moz-#{$property}:$value;
+        -ms-#{$property}:$value;
+         -o-#{$property}:$value;
+            #{$property}:$value;
+}
