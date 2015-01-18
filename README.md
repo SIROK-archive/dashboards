@@ -61,4 +61,4 @@ Developed with LOVE by SIROK, Inc.
 
 ## Copyright and license
 
-Dashboard and all content copyright 2014 - 2015 [SIROK, Inc](http://sirok.co.jp/). Code released under [the MIT License](LICENSE). Docs are released under [Creative Commons](http://creativecommons.org/licenses/by-nc/4.0/).
+Dashboards and all content copyright 2015 [SIROK, Inc.](http://sirok.co.jp/). Code released under [the MIT License](LICENSE). Docs are released under [Creative Commons](http://creativecommons.org/licenses/by-nc/4.0/).
