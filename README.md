@@ -57,7 +57,7 @@ Add each library with submodule:
 
 ## Authors
 
-Developed with ♥ by SIROK, Inc.
+Developed with LOVE by SIROK, Inc.
 
 ## Copyright and license
 
