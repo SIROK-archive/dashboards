@@ -1,0 +1,15 @@
+/*------------------------------------*\
+    $MIXINS
+\*------------------------------------*/
+@mixin font ($font-family, $font-size, $color, $base: 16) {
+    vertical-align: baseline;
+    color: $color;
+    font : {
+        size:   $font-size + px;
+        size:   ($font-size / $base) + rem;
+        style:  normal;
+        weight: 400;
+        family: $font-family;
+    }
+}
+

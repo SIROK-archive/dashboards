@@ -1,0 +1,32 @@
+/*------------------------------------*\
+    #PAGE
+\*------------------------------------*/
+
+/**
+ * Page common style
+ *
+ * It is inspired by github.com/inuitcss/base.page
+ * and Medium's style of it.
+ *
+ * 2. Force scrollbars to always be visible to prevent awkward ‘jumps’ when
+ *    navigating between pages that do/do not have enough content to produce
+ *    scrollbars naturally.
+ * 3. Ensure the page always fills at least the entire height of the viewport.
+ * 4. Prevent certain mobile browsers from automatically zooming fonts.
+ * 5. provides information to the rendering engine about what to optimize
+ *    for when rendering text.
+ * 6. Fonts on OSX will look more consistent with other systems that do not
+ *    render text using sub-pixel anti-aliasing.
+ * 7. The font-feature-settings CSS property allows control over advanced
+ *    typographic features in OpenType fonts.
+ */
+html {
+    overflow-y: scroll; /* [2] */
+    min-height: 100%;   /* [3] */
+    -webkit-text-size-adjust: 100%; /* [4] */
+        -ms-text-size-adjust: 100%; /* [4] */
+    text-rendering: optimizeLegibility;   /* [5] */
+    -moz-osx-font-smoothing: grayscale;   /* [6] */
+     -webkit-font-smoothing: antialiased; /* [6] */
+    -moz-font-feature-settings:"liga" on; /* [7] */
+}
