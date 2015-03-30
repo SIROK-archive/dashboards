@@ -35,6 +35,24 @@ gulp.task('styles:scss', function() {
     .pipe(reload({stream: true}));
 });
 
+gulp.task('serve', ['styles:scss'], function () {
+  browserSync({
+    notify: false,
+    port: 9000,
+    server: {
+      baseDir: ['.tmp', 'app'],
+      routes: {
+        '/bower_components': 'bower_components'
+      }
+    }
+  });
+
+  // watch for changes
+  gulp.watch(['*.html']).on('change', reload);
+
+  gulp.watch('**/*.scss', ['styles:scss']);
+});
+
 
 gulp.task('build', ['styles:scss'], function () {
   return gulp.src('dist/**/*').pipe($.size({title: 'build', gzip: true}));
