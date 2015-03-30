@@ -1,0 +1,22 @@
+{
+  "name": "dashboards",
+  "version": "0.0.1",
+  "description": "HTML and CSS framework for developing responsive dashboard project on the web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SIROK/dashboards.git"
+  },
+  "keywords": [
+    "style"
+  ],
+  "author": "SIROK, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SIROK/dashboards/issues"
+  },
+  "homepage": "https://github.com/SIROK/dashboards"
+}
