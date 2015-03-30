@@ -56,5 +56,5 @@ Add each library with submodule:
 Dashboards and all content copyright 2015 [SIROK, Inc.](http://sirok.co.jp/),  Code released under [the MIT License](LICENSE) and Docs are released under [Creative Commons](http://creativecommons.org/licenses/by-nc/4.0/).
 
 <br><br>
-<p align="center">Designed by SIROK, Inc.</p>
+<p align="center">Designed by [SIROK, Inc.](http://sirok.co.jp/)</p>
 <br>
