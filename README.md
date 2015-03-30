@@ -53,8 +53,8 @@ Add each library with submodule:
 
 ## Copyright and license
 
-Dashboards and all content copyright 2015 [SIROK, Inc.](http://sirok.co.jp/) and Code released under [the MIT License](LICENSE). Docs are released under [Creative Commons](http://creativecommons.org/licenses/by-nc/4.0/).
+Dashboards and all content copyright 2015 [SIROK, Inc.](http://sirok.co.jp/),  Code released under [the MIT License](LICENSE) and Docs are released under [Creative Commons](http://creativecommons.org/licenses/by-nc/4.0/).
 
-<br>
+<br><br>
 <p align="center">Designed by SIROK, Inc.</p>
 <br>
