@@ -20,10 +20,6 @@ HTML and CSS framework for developing responsive dashboard project on the web. H
 
     $ bower install dashboards
 
-### Install with Npm
-
-    $ bower install dashboards
-
 ## Basic template
 
 Start with this basic HTML template. We hope you'll customize our templates and examples, adapting them to suit your needs.
