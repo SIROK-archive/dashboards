@@ -6,7 +6,10 @@ HTML and CSS framework for developing responsive dashboard project on the web. H
 ## Table of Contents
 
 - [Installation](#installation)
+- [What's included](what's-included)
 - [Basic template](#basic-template)
+- [Tools](#tools)
+- [Browser and device support](browser-and-device-support)
 - [Copyright and license](#copyright-and-license)
 
 ## Installation
@@ -19,6 +22,19 @@ HTML and CSS framework for developing responsive dashboard project on the web. H
 ### Install with Bower
 
     $ bower install dashboards
+
+## What's included
+
+    .
+    ├── settings
+    ├── base
+    ├── tools
+    ├── generic
+    ├── components
+    ├── objects
+    ├── layout
+    ├── trumps
+    └── dashboard.scss
 
 ## Basic template
 
@@ -33,6 +49,14 @@ Start with this basic HTML template. We hope you'll customize our templates and 
   </div>
 </div>
 ```
+
+## Tools
+
+commig soon.
+
+## Browser and device support
+
+
 
 
 ## Copyright and license
