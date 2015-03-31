@@ -6,39 +6,39 @@ HTML and CSS framework for developing responsive dashboard project on the web. H
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
+- [Basic template](#basic-template)
 - [Copyright and license](#copyright-and-license)
 
 ## Installation
 
+### Transpile SCSS file
+
+    $ [sudo] npm install
+    $ npm run build
+
+### Install with Bower
+
     $ bower install dashboards
 
-## Usage
+### Install with Npm
 
-### Easy useage:
+    $ bower install dashboards
 
-    <link rel="stylesheet" href="/path/to/dist/css/dashboard.min.css">
+## Basic template
 
-### On existing SCSS project:
+Start with this basic HTML template. We hope you'll customize our templates and examples, adapting them to suit your needs.
 
-Add each library with submodule:
-
-    $ git submodule add https://github.com/SIROK/dashboard.git /path/to/scss/
-
-@import each libraries:
-
-    @import "/path/to/dashboard";
-
-    // Your original style code below
+```html
+<div class="dashboard__wrapper">
+  <div class="dashboard__aside"></div>
+  <div class="dashboard__main">
+      <div class="dashboard__content"></div>
+      <div class="dashboard__footer"></div>
+  </div>
+</div>
+```
 
 
 ## Copyright and license
 
 Dashboards and all content copyright 2015 SIROK, Inc., Code released under [the MIT License](LICENSE) and Docs are released under [Creative Commons](http://creativecommons.org/licenses/by-nc/4.0/).
-
-<br><br>
-<p align="center">
-Designed by <a href="http://sirok.co.jp/" target="_blank">SIROK, Inc.</a>
-</p>
-<br>
