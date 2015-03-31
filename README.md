@@ -25,6 +25,8 @@ HTML and CSS framework for developing responsive dashboard project on the web. H
 
 ## What's included
 
+This framework is based on ITCSS.
+
     .
     ├── settings
     ├── base
@@ -35,6 +37,7 @@ HTML and CSS framework for developing responsive dashboard project on the web. H
     ├── layout
     ├── trumps
     └── dashboard.scss
+
 
 ## Basic template
 
@@ -52,12 +55,11 @@ Start with this basic HTML template. We hope you'll customize our templates and 
 
 ## Tools
 
-commig soon.
+comming soon.
 
 ## Browser and device support
 
-
-
+comming soon.
 
 ## Copyright and license
 
