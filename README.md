@@ -8,6 +8,7 @@ HTML and CSS framework for developing responsive dashboard project on the web. H
 - [Installation](#installation)
 - [What's included](what's-included)
 - [Basic template](#basic-template)
+- [Fonts](#fonts)
 - [Tools](#tools)
 - [Browser and device support](browser-and-device-support)
 - [Contributing](#contributing)
@@ -53,6 +54,14 @@ Start with this basic HTML template. We hope you'll customize our templates and 
   </div>
 </div>
 ```
+
+## Fonts
+
+It use Google Fonts below:
+
+    @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,700italic|Hammersmith+One);
+    font-family: 'Lato', 'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','HiraKakuPro-W3' ;
+    font-family: 'Hammersmith One', 'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','HiraKakuPro-W3';
 
 ## Tools
 
