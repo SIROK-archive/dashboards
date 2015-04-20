@@ -16,14 +16,7 @@ HTML and CSS framework for developing responsive dashboard project on the web. H
 
 ## Installation
 
-### Transpile SCSS file
-
-    $ [sudo] npm install
-    $ npm run build
-
-### Install with Bower
-
-    $ bower install dashboards
+    ruby -e "$(curl -fsSL https://raw.githubusercontent.com/SIROK/dashboards/develop/bootstrap)"
 
 ## What's included
 
