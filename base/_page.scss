@@ -23,10 +23,15 @@
 html {
     overflow-y: scroll; /* [2] */
     min-height: 100%;   /* [3] */
+    box-sizing: border-box;
     -webkit-text-size-adjust: 100%; /* [4] */
         -ms-text-size-adjust: 100%; /* [4] */
     text-rendering: optimizeLegibility;   /* [5] */
     -moz-osx-font-smoothing: grayscale;   /* [6] */
      -webkit-font-smoothing: antialiased; /* [6] */
     -moz-font-feature-settings:"liga" on; /* [7] */
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
 }
