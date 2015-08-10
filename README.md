@@ -5,7 +5,7 @@
 [![Bower version](https://badge.fury.io/bo/dashboards.svg)](http://badge.fury.io/bo/dashboards)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/SIROK/dashboards/master/LICENSE)
 
-The most popular HTML, CSS and JavaScript framework for developing responsive dashboard project on the web. Heavily inspired by [twbs/bootstrap](https://github.com/twbs/bootstrap). It will be used with  [csswizardry/inuit.css](https://github.com/csswizardry/inuit.css/) now. This project use [CSS Style Guide](http://cssguidelin.es/)
+The most popular HTML and CSS framework for developing responsive dashboard project on the web. Heavily inspired by [twbs/bootstrap](https://github.com/twbs/bootstrap). It will be used with  [csswizardry/inuit.css](https://github.com/csswizardry/inuit.css/) now. This project use [CSS Style Guide](http://cssguidelin.es/)
 
 ## Table of Contents
 
