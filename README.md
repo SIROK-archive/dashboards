@@ -1,6 +1,6 @@
 # Dashboards
 
-:warning: This library is no longer maintained
+:warning: **This library is no longer maintained** :warning:
 
 [![Bower version](https://badge.fury.io/bo/dashboards.svg)](http://badge.fury.io/bo/dashboards)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/SIROK/dashboards/master/LICENSE)
