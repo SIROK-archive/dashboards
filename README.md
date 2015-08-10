@@ -1,5 +1,6 @@
-# It will be DEPLICATED soon.
+# Dashboards
 
+:warning: This library is no longer maintained
 
 [![Bower version](https://badge.fury.io/bo/dashboards.svg)](http://badge.fury.io/bo/dashboards)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/SIROK/dashboards/master/LICENSE)
@@ -52,9 +53,6 @@ Add each library with submodule:
 | [Sota Yamashita](http://sota0805.github.io/) |
 
 ## Copyright and license
-
 Dashboard and all content copyright 2014 - 2015 [SIROK, Inc](http://sirok.co.jp/). Code released under [the MIT License](LICENSE). Docs are released under [Creative Commons](http://creativecommons.org/licenses/by-nc/4.0/).
 
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/SIROK/dashboards/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
