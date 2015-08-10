@@ -35,23 +35,6 @@ Add each library with submodule:
 
     // Your original style code below
 
-
-## Todo
-
-- [x] Delete `.gitkeep`
-- [ ] Create page with **gh-page**
-- [ ] Write `CONTRIBUTING.md`
-- [ ] Write `CHANGELOG.md`
-- [ ] Write Documentation section
-- [ ] Write Contributing section
-- [ ] Write Versioning section
-
-## Author
-
-| [![twitter/sota0805](http://2.gravatar.com/avatar/1819ffcc36875ddbf8df81532d832a2b?s=70)](http://twitter.com/sota0805 "Follow @sota0805 on Twitter") |
-|---|
-| [Sota Yamashita](http://sota0805.github.io/) |
-
 ## Copyright and license
 Dashboard and all content copyright 2014 - 2015 [SIROK, Inc](http://sirok.co.jp/). Code released under [the MIT License](LICENSE). Docs are released under [Creative Commons](http://creativecommons.org/licenses/by-nc/4.0/).
 
