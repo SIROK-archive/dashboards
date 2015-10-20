@@ -1,6 +1,9 @@
-# Dashboards
+> ## :warning: Deprecation Notice
 
-:warning: **This library is no longer maintained** :warning:
+> It will be depricated because we are developing new thing below: 
+> * [bdash](https://github.com/SIROK/bdash)
+
+# Dashboards
 
 [![Bower version](https://badge.fury.io/bo/dashboards.svg)](http://badge.fury.io/bo/dashboards)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/SIROK/dashboards/master/LICENSE)
